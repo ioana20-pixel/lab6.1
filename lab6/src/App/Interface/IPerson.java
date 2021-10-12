@@ -1,6 +1,7 @@
-package App.Interfaces;
+package App.Interface;
 
 public interface IPerson {
+
     public abstract void sayHi();
 
     public abstract String generateCNP();

@@ -1,5 +1,6 @@
 package App.Classes;
-import App.Interfaces.IPerson;
+
+import App.Interface.IPerson;
 
 import java.util.Calendar;
 import java.util.Scanner;
